@@ -32,6 +32,15 @@ entities:  version:
 Utilizei o ScrollView que é um grupo de visualização que é usado para fazer visualizações roláveis ​​verticalmente .
 Para colocar várias visualizações na visualização de rolagem, é preciso fazer um grupo de visualização (como LinearLayout) e então podemos definir muitas visualizações dentro dele.
 
+-Configurando o Banco de dados 
+
+-Criando o Layout da tela de cadastro
+
+-Salvando dados em um banco de dados Room
+
+-Criando o item da lista e configurando o adapter 
+
+-Listando todos os contatos, Atualizando os dados do usuário e deletando o usuário 
 ![Screenshot_20241125_012433](https://github.com/user-attachments/assets/4fdafc73-e34c-4864-8fcd-df2de697c0e7) 
 ![Screenshot_20241125_012502](https://github.com/user-attachments/assets/a3cf424a-6cdc-4298-b35f-f94149570998)
 ![Screenshot_20241125_012547](https://github.com/user-attachments/assets/9e6a933a-14a5-4591-a8b0-9253bb4ae33a)
